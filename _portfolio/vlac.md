@@ -1,6 +1,6 @@
 ---
 title: "VLAC"
-excerpt: "Representative project figure.<br/><img src='/images/research/VLAC.jpg'>"
+excerpt: "Representative project figure."
 collection: portfolio
 ---
 

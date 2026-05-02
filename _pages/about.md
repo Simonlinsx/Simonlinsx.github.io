@@ -16,9 +16,9 @@ redirect_from:
     I am a first-year CS Ph.D. student at the School of Data Science, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), advised by Prof. Guiliang Liu. I received my B.Eng. in Automation from Harbin Institute of Technology, Shenzhen.
   </p>
   <div class="home-actions">
-    <a class="btn btn--primary" href="/files/Sixu_Lin_CV.pdf">Download CV</a>
-    <a class="btn" href="/portfolio/">Research Projects</a>
-    <a class="btn" href="/publications/">Publications</a>
+    <a class="btn btn--primary" href="{{ site.baseurl }}/files/Sixu_Lin_CV.pdf">Download CV</a>
+    <a class="btn" href="{{ site.baseurl }}/portfolio/">Research Projects</a>
+    <a class="btn" href="{{ site.baseurl }}/publications/">Publications</a>
   </div>
 </section>
 
@@ -58,30 +58,30 @@ redirect_from:
   <h2>Selected Projects</h2>
   <div class="home-project-grid">
     <article class="home-project-card">
-      <img src="/images/research/HWC-Loco.png" alt="HWC-Loco pipeline">
+      <img src="{{ site.baseurl }}/images/research/HWC-Loco.png" alt="HWC-Loco pipeline">
       <div>
-        <h3><a href="/portfolio/hwc-loco/">HWC-Loco</a></h3>
+        <h3><a href="{{ site.baseurl }}/portfolio/hwc-loco/">HWC-Loco</a></h3>
         <p>Humanoid locomotion research on robust motion skills and practical transfer.</p>
       </div>
     </article>
     <article class="home-project-card">
-      <img src="/images/research/Signbot.png" alt="Signbot pipeline">
+      <img src="{{ site.baseurl }}/images/research/Signbot.png" alt="Signbot pipeline">
       <div>
-        <h3><a href="/portfolio/signbot/">Signbot</a></h3>
+        <h3><a href="{{ site.baseurl }}/portfolio/signbot/">Signbot</a></h3>
         <p>A robotics project exploring embodied interaction and task execution.</p>
       </div>
     </article>
     <article class="home-project-card">
-      <img src="/images/research/MASQ.png" alt="MASQ project figure">
+      <img src="{{ site.baseurl }}/images/research/MASQ.png" alt="MASQ project figure">
       <div>
-        <h3><a href="/portfolio/masq/">MASQ</a></h3>
+        <h3><a href="{{ site.baseurl }}/portfolio/masq/">MASQ</a></h3>
         <p>Selected project material related to representation and robotic intelligence.</p>
       </div>
     </article>
     <article class="home-project-card">
-      <img src="/images/research/SMAP.jpg" alt="SMAP project figure">
+      <img src="{{ site.baseurl }}/images/research/SMAP.jpg" alt="SMAP project figure">
       <div>
-        <h3><a href="/portfolio/smap/">SMAP</a></h3>
+        <h3><a href="{{ site.baseurl }}/portfolio/smap/">SMAP</a></h3>
         <p>Selected research project in my embodied intelligence portfolio.</p>
       </div>
     </article>

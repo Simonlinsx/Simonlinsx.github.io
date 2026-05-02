@@ -1,6 +1,6 @@
 ---
 title: "MASQ"
-excerpt: "Representative project figure.<br/><img src='/images/research/MASQ.png'>"
+excerpt: "Representative project figure."
 collection: portfolio
 ---
 

@@ -26,7 +26,7 @@ Research Interests
 Download
 ======
 
-- [PDF version of my CV](/files/Sixu_Lin_CV.pdf)
+- [PDF version of my CV]({{ site.baseurl }}/files/Sixu_Lin_CV.pdf)
 
 Publications
 ======

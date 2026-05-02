@@ -1,6 +1,6 @@
 ---
 title: "SMAP"
-excerpt: "Representative project figure.<br/><img src='/images/research/SMAP.jpg'>"
+excerpt: "Representative project figure."
 collection: portfolio
 ---
 

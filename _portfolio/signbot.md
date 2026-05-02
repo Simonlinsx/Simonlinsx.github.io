@@ -1,6 +1,6 @@
 ---
 title: "Signbot"
-excerpt: "Representative project pipeline.<br/><img src='/images/research/Signbot.png'>"
+excerpt: "Representative project pipeline."
 collection: portfolio
 ---
 

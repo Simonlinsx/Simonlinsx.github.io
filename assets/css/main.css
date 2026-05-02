@@ -1,0 +1,301 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #ffffff;
+  color: #222222;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+a {
+  color: #00369f;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #001f5f;
+  text-decoration: underline;
+}
+
+p {
+  margin: 0 0 1rem;
+}
+
+strong {
+  font-weight: 700;
+}
+
+.masthead {
+  background: #ffffff;
+  border-bottom: 1px solid #eeeeee;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+}
+
+.masthead__inner-wrap {
+  margin: 0 auto;
+  max-width: 1180px;
+  padding: 0 1.5rem;
+}
+
+.greedy-nav .visible-links {
+  align-items: center;
+  display: flex;
+  gap: 1.15rem;
+  list-style: none;
+  margin: 0;
+  padding: 0.75rem 0;
+}
+
+.masthead__menu-item {
+  color: #333333;
+  font-size: 0.94rem;
+  white-space: nowrap;
+}
+
+.masthead__menu-item--lg {
+  font-size: 1rem;
+  font-weight: 700;
+  margin-right: auto;
+}
+
+#main {
+  display: grid;
+  gap: 2.6rem;
+  grid-template-columns: 245px minmax(0, 1fr);
+  margin: 0 auto;
+  max-width: 1180px;
+  padding: 2.6rem 1.5rem 4rem;
+}
+
+.sidebar {
+  min-width: 0;
+}
+
+.sidebar.sticky {
+  align-self: start;
+  position: sticky;
+  top: 4.5rem;
+}
+
+.profile_box {
+  text-align: center;
+}
+
+.author__avatar img {
+  border-radius: 50%;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+  display: block;
+  height: 180px;
+  margin: 0 auto 1rem;
+  object-fit: cover;
+  width: 180px;
+}
+
+.author__name {
+  font-size: 1.2rem;
+  margin: 0 0 0.4rem;
+}
+
+.author__bio {
+  color: #555555;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  margin: 0 0 0.9rem;
+}
+
+.author__urls {
+  border-top: 1px solid #eeeeee;
+  list-style: none;
+  margin: 1rem 0 0;
+  padding: 1rem 0 0;
+  text-align: left;
+}
+
+.author__urls li {
+  color: #555555;
+  font-size: 0.92rem;
+  margin: 0.35rem 0;
+}
+
+.page {
+  min-width: 0;
+}
+
+.page__inner-wrap {
+  max-width: 860px;
+}
+
+.page__content {
+  font-size: 1rem;
+}
+
+.page__content h1 {
+  border-bottom: 1px solid #eeeeee;
+  color: #111111;
+  font-size: 1.45rem;
+  line-height: 1.25;
+  margin: 2.2rem 0 1rem;
+  padding-bottom: 0.35rem;
+}
+
+.page__content h1:first-child {
+  margin-top: 0;
+}
+
+.page__content ul {
+  padding-left: 1.25rem;
+}
+
+.anchor:before,
+h1:before {
+  content: "";
+  display: block;
+  height: 3.4rem;
+  margin-top: -3.4rem;
+  position: relative;
+  width: 0;
+}
+
+.paper-box {
+  align-items: center;
+  border-bottom: 1px solid #efefef;
+  display: flex;
+  flex-direction: row;
+  gap: 1.8rem;
+  justify-content: flex-start;
+  padding: 1.7rem 0;
+}
+
+.paper-box-image {
+  flex: 0 0 38%;
+  max-width: 340px;
+  min-width: 230px;
+}
+
+.paper-box-image > div {
+  position: relative;
+}
+
+.paper-box-image img {
+  background: #f7f7f7;
+  box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.28);
+  display: block;
+  max-height: 210px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.paper-box-text {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.paper-box-text p {
+  margin-bottom: 0.55rem;
+}
+
+.paper-box-text ul {
+  margin-bottom: 0;
+}
+
+.badge {
+  background-color: #00369f;
+  color: #ffffff;
+  font-size: 0.78rem;
+  font-weight: 700;
+  left: -0.5rem;
+  line-height: 1.7;
+  padding: 0 0.85rem;
+  position: absolute;
+  top: 0.5rem;
+  z-index: 2;
+}
+
+.btn,
+button {
+  border-radius: 4px;
+}
+
+.page__footer {
+  border-top: 1px solid #eeeeee;
+  color: #777777;
+  font-size: 0.85rem;
+  margin-top: 2rem;
+  padding: 1.2rem;
+  text-align: center;
+}
+
+@media (max-width: 900px) {
+  #main {
+    grid-template-columns: 1fr;
+    padding-top: 1.6rem;
+  }
+
+  .sidebar.sticky {
+    position: static;
+  }
+
+  .profile_box {
+    text-align: left;
+  }
+
+  .author__avatar img {
+    height: 132px;
+    margin-left: 0;
+    width: 132px;
+  }
+
+  .author__urls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 1rem;
+  }
+}
+
+@media (max-width: 680px) {
+  body {
+    font-size: 15px;
+  }
+
+  .masthead__inner-wrap,
+  #main {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .greedy-nav .visible-links {
+    flex-wrap: wrap;
+    gap: 0.55rem 0.9rem;
+  }
+
+  .masthead__menu-item--lg {
+    flex-basis: 100%;
+  }
+
+  .paper-box {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .paper-box-image {
+    flex-basis: auto;
+    max-width: 100%;
+    min-width: 0;
+    width: 100%;
+  }
+
+  .paper-box-image img {
+    max-height: none;
+  }
+}

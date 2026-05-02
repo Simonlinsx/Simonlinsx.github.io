@@ -1,97 +1,94 @@
 ---
 permalink: /
-title: "Sixu Lin"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<section class="home-intro">
-  <p class="home-kicker">CS Ph.D. Student | Embodied Intelligence | Robotics</p>
-  <p class="home-lede">
-    I study how physical systems can adaptively interact with the world, improve their behavior through experience, and transfer skills across real robotic settings.
-  </p>
-  <p>
-    I am a first-year CS Ph.D. student at the School of Data Science, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), advised by Prof. Guiliang Liu. I received my B.Eng. in Automation from Harbin Institute of Technology, Shenzhen.
-  </p>
-  <div class="home-actions">
-    <a class="btn btn--primary" href="{{ site.baseurl }}/files/Sixu_Lin_CV.pdf">Download CV</a>
-    <a class="btn" href="{{ site.baseurl }}/portfolio/">Research Projects</a>
-    <a class="btn" href="{{ site.baseurl }}/publications/">Publications</a>
-  </div>
-</section>
+<span class='anchor' id='about-me'></span>
 
-<section class="home-section">
-  <h2>Research</h2>
-  <p>
-    My research focuses on embodied intelligence and adaptive physical systems. I am especially interested in humanoid locomotion, generalizable robotic manipulation, and robot representations that help agents move, manipulate, and reason more robustly in the physical world.
-  </p>
-  <div class="home-focus-grid">
-    <div class="home-focus-item">
-      <strong>Humanoid locomotion</strong>
-      <span>Robust motion skills, whole-body control, and practical deployment for legged robots.</span>
-    </div>
-    <div class="home-focus-item">
-      <strong>Robotic manipulation</strong>
-      <span>Generalizable policies that connect perception, action, and task-level adaptation.</span>
-    </div>
-    <div class="home-focus-item">
-      <strong>Robot representation</strong>
-      <span>Learning structured representations for physical interaction and embodied reasoning.</span>
-    </div>
-  </div>
-</section>
+I am a first-year CS Ph.D. student at the School of Data Science, **The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)**, advised by Prof. **Guiliang Liu**.
+I received my B.Eng. in **Automation** from **Harbin Institute of Technology, Shenzhen** (2021-2025).
 
-<section class="home-section">
-  <h2>Background</h2>
-  <p>
-    Before starting my Ph.D., I worked on research projects with collaborators from Tsinghua University, Westlake University, and Shanghai AI Laboratory. My undergraduate training in automation shaped my interest in building intelligent systems that close the loop between algorithms and physical behavior.
-  </p>
-  <div class="home-timeline">
-    <p><strong>2025-present</strong> Ph.D. student in Computer Science, CUHK-Shenzhen.</p>
-    <p><strong>2021-2025</strong> B.Eng. in Automation, Harbin Institute of Technology, Shenzhen.</p>
-  </div>
-</section>
+My research interests lie in enabling physical systems to adaptively interact with the world and improve their behavior through experience.
+In particular, I am interested in **humanoid locomotion**, **generalizable robotic manipulation**, and **robot representation learning** for embodied intelligence.
 
-<section class="home-section">
-  <h2>Selected Projects</h2>
-  <div class="home-project-grid">
-    <article class="home-project-card">
-      <img src="{{ site.baseurl }}/images/research/HWC-Loco.png" alt="HWC-Loco pipeline">
-      <div>
-        <h3><a href="{{ site.baseurl }}/portfolio/hwc-loco/">HWC-Loco</a></h3>
-        <p>Humanoid locomotion research on robust motion skills and practical transfer.</p>
-      </div>
-    </article>
-    <article class="home-project-card">
-      <img src="{{ site.baseurl }}/images/research/Signbot.png" alt="Signbot pipeline">
-      <div>
-        <h3><a href="{{ site.baseurl }}/portfolio/signbot/">Signbot</a></h3>
-        <p>A robotics project exploring embodied interaction and task execution.</p>
-      </div>
-    </article>
-    <article class="home-project-card">
-      <img src="{{ site.baseurl }}/images/research/MASQ.png" alt="MASQ project figure">
-      <div>
-        <h3><a href="{{ site.baseurl }}/portfolio/masq/">MASQ</a></h3>
-        <p>Selected project material related to representation and robotic intelligence.</p>
-      </div>
-    </article>
-    <article class="home-project-card">
-      <img src="{{ site.baseurl }}/images/research/SMAP.jpg" alt="SMAP project figure">
-      <div>
-        <h3><a href="{{ site.baseurl }}/portfolio/smap/">SMAP</a></h3>
-        <p>Selected research project in my embodied intelligence portfolio.</p>
-      </div>
-    </article>
-  </div>
-</section>
+Before starting my Ph.D., I worked on research projects with collaborators from Tsinghua University, Westlake University, and Shanghai AI Laboratory.
 
-<section class="home-section">
-  <h2>News</h2>
-  <div class="home-news">
-    <p><strong>2025</strong> Started my Ph.D. at the School of Data Science, CUHK-Shenzhen.</p>
-    <p><strong>2025</strong> Received my B.Eng. in Automation from Harbin Institute of Technology, Shenzhen.</p>
-  </div>
-</section>
+<span class='anchor' id='selected-publications'></span>
+
+# Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/research/HWC-Loco.png' alt="HWC-Loco overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion](https://arxiv.org/abs/2503.00923)
+
+**Sixu Lin**, Guanren Qiao, Yunxin Tai, Ang Li, Kui Jia, Guiliang Liu
+
+[**Project**](https://simonlinsx.github.io/HWC_Loco/) [**arXiv**](https://arxiv.org/abs/2503.00923) [**PDF**](files/HWC-Loco-kick.pdf)
+
+- A hierarchical whole-body control approach for robust humanoid locomotion across diverse terrains, robot structures, and disturbance settings.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Manuscript</div><img src='images/research/VLAC.jpg' alt="DyGRO representative figure" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DyGRO](files/DyGRO.pdf)
+
+**Sixu Lin** et al.
+
+[**PDF**](files/DyGRO.pdf)
+
+- A selected project manuscript related to adaptive physical systems and embodied intelligence.
+</div>
+</div>
+
+<span class='anchor' id='selected-projects'></span>
+
+# Selected Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics</div><img src='images/research/Signbot.png' alt="Signbot pipeline" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Signbot**
+
+- A selected robotics project exploring embodied interaction and task execution in a physical system.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Representation</div><img src='images/research/MASQ.png' alt="MASQ project figure" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MASQ**
+
+- A selected project connected to representation learning and embodied intelligence.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Perception</div><img src='images/research/SMAP.jpg' alt="SMAP project figure" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SMAP**
+
+- A selected project related to perception and decision making for robotic systems.
+</div>
+</div>
+
+<span class='anchor' id='experience'></span>
+
+# Experience
+
+- *2025 - Present*, **Ph.D. Student**, School of Data Science, The Chinese University of Hong Kong, Shenzhen.
+- *Before Ph.D.*, Research experience with collaborators from Tsinghua University, Westlake University, and Shanghai AI Laboratory.
+
+<span class='anchor' id='education'></span>
+
+# Education
+
+- *2025 - Present*, **Ph.D. in Computer Science**, The Chinese University of Hong Kong, Shenzhen.
+- *2021 - 2025*, **B.Eng. in Automation**, Harbin Institute of Technology, Shenzhen.

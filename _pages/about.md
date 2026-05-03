@@ -98,47 +98,59 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
     <img class="experience-logo" src="images/logos/slai.png" alt="Shenzhen Loop Area Institute logo">
     <div class="experience-text">
       <div class="experience-time">Nov. 2025 - Present</div>
-      <div><strong>Research Intern</strong>, Shenzhen Loop Area Institute (SLAI).</div>
-    </div>
-  </div>
-
-  <div class="experience-item">
-    <img class="experience-logo" src="https://www.ox.ac.uk/themes/custom/numiko/dist/logo-overlay-JdHVKhkq.svg" alt="University of Oxford logo">
-    <div class="experience-text">
-      <div class="experience-time">Time to update</div>
-      <div><strong>Visiting Student</strong>, University of Oxford.</div>
-    </div>
-  </div>
-
-  <div class="experience-item">
-    <img class="experience-logo" src="images/logos/westlake.png" alt="Westlake University logo">
-    <div class="experience-text">
-      <div class="experience-time">Time to update</div>
-      <div><strong>Visiting Student</strong>, Westlake University.</div>
-    </div>
-  </div>
-
-  <div class="experience-item">
-    <img class="experience-logo" src="images/logos/tsinghua.png" alt="Tsinghua University logo">
-    <div class="experience-text">
-      <div class="experience-time">Time to update</div>
-      <div><strong>Undergraduate Researcher</strong>, Tsinghua University.</div>
-    </div>
-  </div>
-
-  <div class="experience-item">
-    <img class="experience-logo" src="images/logos/georgia-tech.png" alt="Georgia Institute of Technology logo">
-    <div class="experience-text">
-      <div class="experience-time">Time to update</div>
-      <div><strong>Remote Research Collaborator</strong>, Georgia Institute of Technology.</div>
+      <div class="experience-title"><strong>Research Intern</strong></div>
+      <div class="experience-org">Shenzhen Loop Area Institute (SLAI)</div>
+      <p class="experience-description">Research internship on embodied intelligence and robotics.</p>
     </div>
   </div>
 
   <div class="experience-item">
     <img class="experience-logo" src="images/logos/shanghai-ai-lab.webp" alt="Shanghai AI Laboratory logo">
     <div class="experience-text">
-      <div class="experience-time">Time to update</div>
-      <div><strong>Research Intern</strong>, Shanghai AI Laboratory.</div>
+      <div class="experience-time">Mar. 2025 - Sep. 2025</div>
+      <div class="experience-title"><strong>Research Intern</strong></div>
+      <div class="experience-org">Shanghai AI Laboratory</div>
+      <p class="experience-description">Worked on vision-language-action models and reinforcement fine-tuning.</p>
+    </div>
+  </div>
+
+  <div class="experience-item">
+    <img class="experience-logo" src="images/logos/westlake.png" alt="Westlake University logo">
+    <div class="experience-text">
+      <div class="experience-time">Jul. 2024 - Sep. 2024</div>
+      <div class="experience-title"><strong>Visiting Student</strong></div>
+      <div class="experience-org">Westlake University</div>
+      <p class="experience-description">Visiting student in computer science.</p>
+    </div>
+  </div>
+
+  <div class="experience-item">
+    <img class="experience-logo" src="images/logos/tsinghua.png" alt="Tsinghua University logo">
+    <div class="experience-text">
+      <div class="experience-time">Dates to update</div>
+      <div class="experience-title"><strong>Undergraduate Researcher</strong></div>
+      <div class="experience-org">Tsinghua University</div>
+      <p class="experience-description">Undergraduate research on robotics and reinforcement learning.</p>
+    </div>
+  </div>
+
+  <div class="experience-item">
+    <img class="experience-logo" src="https://www.ox.ac.uk/themes/custom/numiko/dist/logo-overlay-JdHVKhkq.svg" alt="University of Oxford logo">
+    <div class="experience-text">
+      <div class="experience-time">Jul. 2023 - Sep. 2023</div>
+      <div class="experience-title"><strong>Visiting Student</strong></div>
+      <div class="experience-org">University of Oxford</div>
+      <p class="experience-description">Visiting student in computer science.</p>
+    </div>
+  </div>
+
+  <div class="experience-item">
+    <img class="experience-logo" src="images/logos/georgia-tech.png" alt="Georgia Institute of Technology logo">
+    <div class="experience-text">
+      <div class="experience-time">Dates to update</div>
+      <div class="experience-title"><strong>Remote Research Collaborator</strong></div>
+      <div class="experience-org">Georgia Institute of Technology</div>
+      <p class="experience-description">Remote research collaboration on embodied AI and robotics.</p>
     </div>
   </div>
 </div>

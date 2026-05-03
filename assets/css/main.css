@@ -282,20 +282,73 @@ h1:before {
 }
 
 .experience-item {
-  align-items: start;
+  align-items: center;
   background: #ffffff;
   border: 1px solid #eeeeee;
   border-radius: 10px;
   display: grid;
-  gap: 1.1rem;
-  grid-template-columns: 118px minmax(0, 1fr);
-  padding: 1rem;
+  gap: 1.25rem;
+  grid-template-columns: 150px minmax(0, 1fr);
+  min-height: 158px;
+  padding: 1.15rem;
+}
+
+.experience-logo-frame {
+  align-items: center;
+  background: #f7f9fc;
+  border: 1px solid #e9edf4;
+  border-radius: 18px;
+  display: flex;
+  height: 134px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 0.75rem;
+  width: 134px;
 }
 
 .experience-logo {
-  height: 64px;
+  display: block;
+  height: auto;
+  max-height: 108px;
+  max-width: 108px;
   object-fit: contain;
-  width: 118px;
+  width: auto;
+}
+
+.experience-logo--wide {
+  max-height: 72px;
+  max-width: 122px;
+}
+
+.experience-logo-frame--slai {
+  background: #fff6fa;
+}
+
+.experience-logo-frame--shlab {
+  background: #f1fbff;
+}
+
+.experience-logo-frame--westlake {
+  background: #f4f9ff;
+}
+
+.experience-logo-frame--tsinghua {
+  background: #fbf8ff;
+}
+
+.experience-logo-frame--oxford {
+  background: #13264a;
+  border-color: #13264a;
+  padding: 0;
+}
+
+.experience-logo-frame--oxford .experience-logo {
+  max-height: 134px;
+  max-width: 134px;
+}
+
+.experience-logo-frame--gatech {
+  background: #fffbf0;
 }
 
 .experience-time {
@@ -323,12 +376,31 @@ h1:before {
 
 @media (max-width: 560px) {
   .experience-item {
-    grid-template-columns: 86px minmax(0, 1fr);
+    grid-template-columns: 94px minmax(0, 1fr);
     gap: 0.85rem;
+    min-height: 118px;
+    padding: 0.9rem;
+  }
+
+  .experience-logo-frame {
+    border-radius: 14px;
+    height: 82px;
+    padding: 0.55rem;
+    width: 82px;
   }
 
   .experience-logo {
-    width: 86px;
+    max-height: 66px;
+    max-width: 66px;
+  }
+
+  .experience-logo--wide {
+    max-width: 74px;
+  }
+
+  .experience-logo-frame--oxford .experience-logo {
+    max-height: 82px;
+    max-width: 82px;
   }
 }
 

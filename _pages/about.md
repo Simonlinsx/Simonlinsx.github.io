@@ -176,7 +176,9 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
 
 <div class="experience-list">
   <div class="experience-item">
-    <img class="experience-logo" src="images/logos/slai.png" alt="Shenzhen Loop Area Institute logo">
+    <div class="experience-logo-frame experience-logo-frame--slai">
+      <img class="experience-logo" src="images/logos/slai-mark.png" alt="Shenzhen Loop Area Institute logo">
+    </div>
     <div class="experience-text">
       <div class="experience-time">Nov. 2025 - Present</div>
       <div class="experience-title"><strong>Research Intern</strong></div>
@@ -186,7 +188,9 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
   </div>
 
   <div class="experience-item">
-    <img class="experience-logo" src="images/logos/shanghai-ai-lab.webp" alt="Shanghai AI Laboratory logo">
+    <div class="experience-logo-frame experience-logo-frame--shlab">
+      <img class="experience-logo experience-logo--wide" src="images/logos/shanghai-ai-lab-mark.png" alt="Shanghai AI Laboratory logo">
+    </div>
     <div class="experience-text">
       <div class="experience-time">Mar. 2025 - Sep. 2025</div>
       <div class="experience-title"><strong>Research Intern</strong></div>
@@ -196,7 +200,9 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
   </div>
 
   <div class="experience-item">
-    <img class="experience-logo" src="images/logos/westlake.png" alt="Westlake University logo">
+    <div class="experience-logo-frame experience-logo-frame--westlake">
+      <img class="experience-logo" src="images/logos/westlake-mark.png" alt="Westlake University logo">
+    </div>
     <div class="experience-text">
       <div class="experience-time">Jul. 2024 - Sep. 2024</div>
       <div class="experience-title"><strong>Visiting Student</strong></div>
@@ -206,7 +212,9 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
   </div>
 
   <div class="experience-item">
-    <img class="experience-logo" src="images/logos/tsinghua.png" alt="Tsinghua University logo">
+    <div class="experience-logo-frame experience-logo-frame--tsinghua">
+      <img class="experience-logo" src="images/logos/tsinghua-mark.jpg" alt="Tsinghua University logo">
+    </div>
     <div class="experience-text">
       <div class="experience-time">Sep. 2024 - Nov. 2024</div>
       <div class="experience-title"><strong>Undergraduate Researcher</strong></div>
@@ -216,7 +224,9 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
   </div>
 
   <div class="experience-item">
-    <img class="experience-logo" src="https://www.ox.ac.uk/themes/custom/numiko/dist/logo-overlay-JdHVKhkq.svg" alt="University of Oxford logo">
+    <div class="experience-logo-frame experience-logo-frame--oxford">
+      <img class="experience-logo" src="images/logos/oxford-mark.jpg" alt="University of Oxford logo">
+    </div>
     <div class="experience-text">
       <div class="experience-time">Jul. 2023 - Sep. 2023</div>
       <div class="experience-title"><strong>Visiting Student</strong></div>
@@ -226,7 +236,9 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
   </div>
 
   <div class="experience-item">
-    <img class="experience-logo" src="images/logos/georgia-tech.png" alt="Georgia Institute of Technology logo">
+    <div class="experience-logo-frame experience-logo-frame--gatech">
+      <img class="experience-logo" src="images/logos/georgia-tech-mark.png" alt="Georgia Institute of Technology logo">
+    </div>
     <div class="experience-text">
       <div class="experience-time">Feb. 2024 - May 2024</div>
       <div class="experience-title"><strong>Remote Research Collaborator</strong></div>

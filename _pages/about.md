@@ -127,7 +127,7 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
   <div class="experience-item">
     <img class="experience-logo" src="images/logos/tsinghua.png" alt="Tsinghua University logo">
     <div class="experience-text">
-      <div class="experience-time">Dates to update</div>
+      <div class="experience-time">Sep. 2024 - Nov. 2024</div>
       <div class="experience-title"><strong>Undergraduate Researcher</strong></div>
       <div class="experience-org">Tsinghua University</div>
       <p class="experience-description">Undergraduate research on robotics and reinforcement learning.</p>
@@ -147,7 +147,7 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
   <div class="experience-item">
     <img class="experience-logo" src="images/logos/georgia-tech.png" alt="Georgia Institute of Technology logo">
     <div class="experience-text">
-      <div class="experience-time">Dates to update</div>
+      <div class="experience-time">Feb. 2024 - May 2024</div>
       <div class="experience-title"><strong>Remote Research Collaborator</strong></div>
       <div class="experience-org">Georgia Institute of Technology</div>
       <p class="experience-description">Remote research collaboration on embodied AI and robotics.</p>

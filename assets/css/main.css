@@ -208,8 +208,8 @@ h1:before {
   background: #f7f7f7;
   box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.28);
   display: block;
-  max-height: 210px;
-  object-fit: cover;
+  height: 210px;
+  object-fit: contain;
   width: 100%;
 }
 
@@ -220,6 +220,42 @@ h1:before {
 
 .paper-box-text p {
   margin-bottom: 0.55rem;
+}
+
+.paper-authors {
+  color: #444444;
+  font-size: 0.94rem;
+  line-height: 1.45;
+}
+
+.paper-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0.45rem 0 0.55rem;
+}
+
+.paper-links a {
+  background: #f1f4fa;
+  border: 1px solid #d7dfed;
+  border-radius: 999px;
+  color: #00369f;
+  font-size: 0.82rem;
+  font-weight: 700;
+  line-height: 1.2;
+  padding: 0.22rem 0.65rem;
+}
+
+.paper-links a:hover {
+  background: #00369f;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.paper-summary {
+  color: #555555;
+  font-size: 0.94rem;
+  line-height: 1.5;
 }
 
 .paper-box-text ul {
@@ -371,7 +407,7 @@ button {
   }
 
   .paper-box-image img {
-    max-height: none;
+    height: 220px;
   }
 
   .news-item {

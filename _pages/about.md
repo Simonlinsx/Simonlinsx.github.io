@@ -23,6 +23,8 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
 # News
 
 <div class="news-list">
+  <div class="news-item"><span class="news-date">2026</span><span>RoboFlow4D, DyGRO, and BiTrajDiff were accepted to ICML 2026.</span></div>
+  <div class="news-item"><span class="news-date">2026</span><span>HWC-Loco was accepted to ICLR 2026, and SignBot was accepted to ICRA 2026.</span></div>
   <div class="news-item"><span class="news-date">2025</span><span>Started my Ph.D. at the School of Data Science, CUHK-Shenzhen.</span></div>
   <div class="news-item"><span class="news-date">2025</span><span>Received my B.Eng. in Automation from Harbin Institute of Technology, Shenzhen.</span></div>
   <div class="news-item"><span class="news-date">2025</span><span>Released HWC-Loco as an arXiv preprint.</span></div>
@@ -32,62 +34,141 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
 
 # Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/research/HWC-Loco.png' alt="HWC-Loco overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/research/HWC-Loco.png' alt="HWC-Loco overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion](https://arxiv.org/abs/2503.00923)
+**[HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion](https://arxiv.org/abs/2503.00923)**
 
-**Sixu Lin**, Guanren Qiao, Yunxin Tai, Ang Li, Kui Jia, Guiliang Liu
+<p class="paper-authors"><strong>Sixu Lin</strong>, Guanren Qiao, Yunxin Tai, Ang Li, Kui Jia, Guiliang Liu</p>
 
-[**Project**](https://simonlinsx.github.io/HWC_Loco/) [**arXiv**](https://arxiv.org/abs/2503.00923) [**PDF**](files/HWC-Loco-kick.pdf)
+<div class="paper-links">
+  <a href="https://simonlinsx.github.io/HWC_Loco/">Project</a>
+  <a href="https://arxiv.org/abs/2503.00923">arXiv</a>
+  <a href="https://arxiv.org/pdf/2503.00923">PDF</a>
+</div>
 
-- A hierarchical whole-body control approach for robust humanoid locomotion across diverse terrains, robot structures, and disturbance settings.
+<p class="paper-summary">A hierarchical whole-body control approach for robust humanoid locomotion across diverse terrains, robot structures, and disturbance settings.</p>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Manuscript</div><img src='images/research/VLAC.jpg' alt="DyGRO representative figure" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/research/RoboFlow4D.png' alt="RoboFlow4D pipeline" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DyGRO](files/DyGRO.pdf)
+**[RoboFlow4D](files/RoboFlow4D-pipeline.pdf)**
 
-**Sixu Lin** et al.
+<p class="paper-authors"><strong>Sixu Lin</strong> et al.</p>
 
-[**PDF**](files/DyGRO.pdf)
+<div class="paper-links">
+  <a href="files/RoboFlow4D-pipeline.pdf">PDF</a>
+</div>
 
-- A selected project manuscript related to adaptive physical systems and embodied intelligence.
+<p class="paper-summary">A 4D flow representation and policy learning framework for robotic manipulation.</p>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/research/DyGRO.png' alt="DyGRO pipeline" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[DyGRO](files/DyGRO.pdf)**
+
+<p class="paper-authors"><strong>Sixu Lin</strong> et al.</p>
+
+<div class="paper-links">
+  <a href="files/DyGRO.pdf">PDF</a>
+</div>
+
+<p class="paper-summary">A dynamic grouping residual reinforcement learning framework for adaptive embodied policies.</p>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/research/BiTrajDiff.png' alt="BiTrajDiff paper thumbnail" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning](https://arxiv.org/abs/2506.05762)**
+
+<p class="paper-authors">Yunpeng Qing, Yixiao Chi, Shuo Chen, Shunyu Liu, Kelu Yao, <strong>Sixu Lin</strong>, Litao Liu, Changqing Zou</p>
+
+<div class="paper-links">
+  <a href="https://arxiv.org/abs/2506.05762">arXiv</a>
+  <a href="https://arxiv.org/pdf/2506.05762">PDF</a>
+</div>
+
+<p class="paper-summary">A bidirectional diffusion framework for offline reinforcement learning that models both future and history trajectories from intermediate states.</p>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/research/Signbot.png' alt="SignBot pipeline" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[SignBot: Learning Human-to-Humanoid Sign Language Interaction](https://arxiv.org/abs/2505.24266)**
+
+<p class="paper-authors">Guanren Qiao, <strong>Sixu Lin</strong>, Ronglai Zuo, Zhizheng Wu, Kui Jia, Guiliang Liu</p>
+
+<div class="paper-links">
+  <a href="https://arxiv.org/abs/2505.24266">arXiv</a>
+  <a href="https://arxiv.org/pdf/2505.24266">PDF</a>
+</div>
+
+<p class="paper-summary">A human-to-humanoid sign language interaction framework spanning motion retargeting, motion control, and generative interaction.</p>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/research/VLAC.jpg' alt="VLAC framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[A Vision-Language-Action-Critic Model for Robotic Real-World Reinforcement Learning](https://arxiv.org/abs/2509.15937)**
+
+<p class="paper-authors">Shaopeng Zhai, Qi Zhang, Tianyi Zhang, Fuxian Huang, Haoran Zhang, Ming Zhou, Shengzhe Zhang, Litao Liu, <strong>Sixu Lin</strong>, Jiangmiao Pang</p>
+
+<div class="paper-links">
+  <a href="https://vlac.intern-ai.org.cn/">Project</a>
+  <a href="https://arxiv.org/abs/2509.15937">arXiv</a>
+  <a href="https://github.com/InternRobotics/VLAC">Code</a>
+</div>
+
+<p class="paper-summary">A vision-language-action-critic model that provides dense progress rewards and action generation for real-world robot reinforcement learning.</p>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/research/SMAP.jpg' alt="SMAP framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control](https://arxiv.org/abs/2505.19463)**
+
+<p class="paper-authors">Haoyu Zhao<sup>*</sup>, <strong>Sixu Lin</strong><sup>*</sup>, Qingwei Ben, Minyue Dai, Hao Fei, Jingbo Wang, Hua Zou, Junting Dong</p>
+
+<div class="paper-links">
+  <a href="https://arxiv.org/abs/2505.19463">arXiv</a>
+  <a href="https://arxiv.org/pdf/2505.19463">PDF</a>
+</div>
+
+<p class="paper-summary">A self-supervised motion adaptation framework for physically plausible humanoid whole-body control.</p>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/research/MASQ.png' alt="MASQ framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[MASQ: Multi-Agent Reinforcement Learning for Single Quadruped Robot Locomotion](https://arxiv.org/abs/2408.13759)**
+
+<p class="paper-authors">Qi Liu, Jingxiang Guo, <strong>Sixu Lin</strong>, Shuaikang Ma, Jinxuan Zhu, Yanjie Li</p>
+
+<div class="paper-links">
+  <a href="https://arxiv.org/abs/2408.13759">arXiv</a>
+  <a href="https://arxiv.org/pdf/2408.13759">PDF</a>
+  <a href="https://icml.cc/virtual/2025/50633">ICML Page</a>
+</div>
+
+<p class="paper-summary">A multi-agent reinforcement learning formulation that treats the legs of a single quadruped robot as cooperating agents.</p>
 </div>
 </div>
 
 <span class='anchor' id='selected-projects'></span>
 
-# Selected Projects
+# Project Sites
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics</div><img src='images/research/Signbot.png' alt="Signbot pipeline" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Signbot**
-
-- A selected robotics project exploring embodied interaction and task execution in a physical system.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Representation</div><img src='images/research/MASQ.png' alt="MASQ project figure" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**MASQ**
-
-- A selected project connected to representation learning and embodied intelligence.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Perception</div><img src='images/research/SMAP.jpg' alt="SMAP project figure" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**SMAP**
-
-- A selected project related to perception and decision making for robotic systems.
-</div>
-</div>
+- [HWC-Loco](https://simonlinsx.github.io/HWC_Loco/) - project page for robust humanoid locomotion.
+- [VLAC](https://vlac.intern-ai.org.cn/) - project page for vision-language-action-critic robotic real-world reinforcement learning.
 
 <span class='anchor' id='experience'></span>
 

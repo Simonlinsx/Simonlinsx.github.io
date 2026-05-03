@@ -85,7 +85,9 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   conferences:
-    title: 'Selected Papers and Project Manuscripts'
+    title: 'Conference Papers'
+  manuscripts:
+    title: 'Preprints and Technical Reports'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

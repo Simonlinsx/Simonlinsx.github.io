@@ -95,7 +95,7 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
 
 <div class="experience-list">
   <div class="experience-item">
-    <img class="experience-logo" src="images/logos/oxford.svg" alt="University of Oxford logo">
+    <img class="experience-logo" src="https://www.ox.ac.uk/themes/custom/numiko/dist/logo-overlay-JdHVKhkq.svg" alt="University of Oxford logo">
     <div class="experience-text">
       <div class="experience-time">Time to update</div>
       <div><strong>Visiting Student</strong>, University of Oxford.</div>
@@ -103,7 +103,7 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
   </div>
 
   <div class="experience-item">
-    <img class="experience-logo" src="images/logos/westlake.svg" alt="Westlake University logo">
+    <img class="experience-logo" src="images/logos/westlake.png" alt="Westlake University logo">
     <div class="experience-text">
       <div class="experience-time">Time to update</div>
       <div><strong>Visiting Student</strong>, Westlake University.</div>
@@ -111,7 +111,7 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
   </div>
 
   <div class="experience-item">
-    <img class="experience-logo" src="images/logos/tsinghua.svg" alt="Tsinghua University logo">
+    <img class="experience-logo" src="images/logos/tsinghua.png" alt="Tsinghua University logo">
     <div class="experience-text">
       <div class="experience-time">Time to update</div>
       <div><strong>Undergraduate Researcher</strong>, Tsinghua University.</div>
@@ -119,7 +119,7 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
   </div>
 
   <div class="experience-item">
-    <img class="experience-logo" src="images/logos/georgia-tech.svg" alt="Georgia Institute of Technology logo">
+    <img class="experience-logo" src="images/logos/georgia-tech.png" alt="Georgia Institute of Technology logo">
     <div class="experience-text">
       <div class="experience-time">Time to update</div>
       <div><strong>Remote Research Collaborator</strong>, Georgia Institute of Technology.</div>
@@ -127,7 +127,7 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
   </div>
 
   <div class="experience-item">
-    <img class="experience-logo" src="images/logos/shanghai-ai-lab.svg" alt="Shanghai AI Laboratory logo">
+    <img class="experience-logo" src="images/logos/shanghai-ai-lab.webp" alt="Shanghai AI Laboratory logo">
     <div class="experience-text">
       <div class="experience-time">Time to update</div>
       <div><strong>Research Intern</strong>, Shanghai AI Laboratory.</div>

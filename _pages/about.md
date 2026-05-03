@@ -18,6 +18,16 @@ In particular, I am interested in **humanoid locomotion**, **generalizable robot
 
 Before starting my Ph.D., I worked on research projects with collaborators from Tsinghua University, Westlake University, and Shanghai AI Laboratory.
 
+<span class='anchor' id='news'></span>
+
+# News
+
+<div class="news-list">
+  <div class="news-item"><span class="news-date">2025</span><span>Started my Ph.D. at the School of Data Science, CUHK-Shenzhen.</span></div>
+  <div class="news-item"><span class="news-date">2025</span><span>Received my B.Eng. in Automation from Harbin Institute of Technology, Shenzhen.</span></div>
+  <div class="news-item"><span class="news-date">2025</span><span>Released HWC-Loco as an arXiv preprint.</span></div>
+</div>
+
 <span class='anchor' id='selected-publications'></span>
 
 # Selected Publications
@@ -83,8 +93,47 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
 
 # Experience
 
-- *2025 - Present*, **Ph.D. Student**, School of Data Science, The Chinese University of Hong Kong, Shenzhen.
-- *Before Ph.D.*, Research experience with collaborators from Tsinghua University, Westlake University, and Shanghai AI Laboratory.
+<div class="experience-list">
+  <div class="experience-item">
+    <img class="experience-logo" src="images/logos/oxford.svg" alt="University of Oxford logo">
+    <div class="experience-text">
+      <div class="experience-time">Time to update</div>
+      <div><strong>Visiting Student</strong>, University of Oxford.</div>
+    </div>
+  </div>
+
+  <div class="experience-item">
+    <img class="experience-logo" src="images/logos/westlake.svg" alt="Westlake University logo">
+    <div class="experience-text">
+      <div class="experience-time">Time to update</div>
+      <div><strong>Visiting Student</strong>, Westlake University.</div>
+    </div>
+  </div>
+
+  <div class="experience-item">
+    <img class="experience-logo" src="images/logos/tsinghua.svg" alt="Tsinghua University logo">
+    <div class="experience-text">
+      <div class="experience-time">Time to update</div>
+      <div><strong>Undergraduate Researcher</strong>, Tsinghua University.</div>
+    </div>
+  </div>
+
+  <div class="experience-item">
+    <img class="experience-logo" src="images/logos/georgia-tech.svg" alt="Georgia Institute of Technology logo">
+    <div class="experience-text">
+      <div class="experience-time">Time to update</div>
+      <div><strong>Remote Research Collaborator</strong>, Georgia Institute of Technology.</div>
+    </div>
+  </div>
+
+  <div class="experience-item">
+    <img class="experience-logo" src="images/logos/shanghai-ai-lab.svg" alt="Shanghai AI Laboratory logo">
+    <div class="experience-text">
+      <div class="experience-time">Time to update</div>
+      <div><strong>Research Intern</strong>, Shanghai AI Laboratory.</div>
+    </div>
+  </div>
+</div>
 
 <span class='anchor' id='education'></span>
 

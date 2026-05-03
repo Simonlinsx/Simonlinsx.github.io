@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title id="title">Tsinghua University</title>
+  <rect width="96" height="96" rx="18" fill="#82318e"/>
+  <circle cx="48" cy="48" r="32" fill="none" stroke="#ffffff" stroke-width="4"/>
+  <text x="48" y="57" fill="#ffffff" font-family="Georgia, serif" font-size="22" font-weight="700" text-anchor="middle">THU</text>
+</svg>

@@ -95,6 +95,14 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
 
 <div class="experience-list">
   <div class="experience-item">
+    <img class="experience-logo" src="images/logos/slai.png" alt="Shenzhen Loop Area Institute logo">
+    <div class="experience-text">
+      <div class="experience-time">Nov. 2025 - Present</div>
+      <div><strong>Research Intern</strong>, Shenzhen Loop Area Institute (SLAI).</div>
+    </div>
+  </div>
+
+  <div class="experience-item">
     <img class="experience-logo" src="https://www.ox.ac.uk/themes/custom/numiko/dist/logo-overlay-JdHVKhkq.svg" alt="University of Oxford logo">
     <div class="experience-text">
       <div class="experience-time">Time to update</div>

@@ -59,9 +59,9 @@ At a high level, I enjoy working on algorithms and systems that make physical in
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/research/RoboFlow4D.png' alt="RoboFlow4D pipeline" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[RoboFlow4D](files/RoboFlow4D-pipeline.pdf)**
+**[RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation](files/RoboFlow4D-pipeline.pdf)**
 
-<p class="paper-authors"><strong>Sixu Lin</strong> et al.</p>
+<p class="paper-authors"><strong>Sixu Lin<strong>, Huaiyuan Xu, Junliang Chen, Zhuohao Li, Guangming Wang, Yixiong Jing, Sheng Xu, Runyi Zhao, Brian Sheil, Lap-Pui Chau, Guiliang Liu</p>
 
 <div class="paper-links">
   <a href="files/RoboFlow4D-pipeline.pdf">PDF</a>
@@ -74,9 +74,10 @@ At a high level, I enjoy working on algorithms and systems that make physical in
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/research/DyGRO.png' alt="DyGRO pipeline" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[DyGRO](files/DyGRO.pdf)**
+**[DyGRO-VLA: Cross-Task Scaling of Vision Language Action Models via Dynamic Grouped Residual Optimization](files/DyGRO.pdf)**
 
-<p class="paper-authors"><strong>Sixu Lin</strong> et al.</p>
+<!-- <p class="paper-authors"><strong>Sixu Lin</strong> et al.</p> -->
+<p class="paper-authors"><strong>Sixu Lin<strong>, Yunpeng Qing, Litao Liu, Ming Zhou, Ruixing Jin, Xiaoyi Fan, Guiliang Liu</p>
 
 <div class="paper-links">
   <a href="files/DyGRO.pdf">PDF</a>
@@ -170,15 +171,7 @@ At a high level, I enjoy working on algorithms and systems that make physical in
 
 <span class='anchor' id='selected-projects'></span>
 
-# Project Sites
-
-- [HWC-Loco](https://simonlinsx.github.io/HWC_Loco/) - project page for robust humanoid locomotion.
-- [VLAC](https://vlac.intern-ai.org.cn/) - project page for vision-language-action-critic robotic real-world reinforcement learning.
-
-<span class='anchor' id='experience'></span>
-
 # Experience
-
 <div class="experience-list">
   <div class="experience-item">
     <div class="experience-logo-frame experience-logo-frame--slai">

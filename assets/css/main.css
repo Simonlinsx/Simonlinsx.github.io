@@ -163,10 +163,19 @@ strong {
 }
 
 .news-item {
+  align-items: baseline;
   display: grid;
-  gap: 0.75rem;
-  grid-template-columns: 4.2rem 1fr;
+  gap: 0.55rem;
+  grid-template-columns: 1.35rem 4.2rem 1fr;
   margin: 0.45rem 0;
+}
+
+.news-item::before {
+  color: #f36b21;
+  content: "🔥";
+  font-size: 1rem;
+  line-height: 1;
+  transform: translateY(0.08rem);
 }
 
 .news-date {
@@ -483,7 +492,15 @@ button {
   }
 
   .news-item {
-    grid-template-columns: 1fr;
-    gap: 0.05rem;
+    grid-template-columns: 1.2rem 1fr;
+    gap: 0.05rem 0.4rem;
+  }
+
+  .news-date {
+    grid-column: 2;
+  }
+
+  .news-item span:last-child {
+    grid-column: 2;
   }
 }

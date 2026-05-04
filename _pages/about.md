@@ -17,7 +17,8 @@ My research focuses on building embodied agents that can learn from interaction,
 I am particularly interested in **reinforcement learning for robotic control**, **robot representation learning**, and **test-time steering/adaptation**.
 
 My work has appeared in top-tier AI and robotics venues, including **ICML**, **ICLR**, and **ICRA**.
-I have also been fortunate to work with collaborators and mentors across **Shanghai AI Laboratory**, **Shenzhen Loop Area Institute**, **Tsinghua University**, **Georgia Tech**, **Oxford**, and **Westlake University**.
+
+I have also been fortunate to work as a research intern at **Shanghai AI Laboratory**, mentored by **[Ming Zhou](https://www.mingzak.com/)**.
 
 At a high level, I enjoy working on algorithms and systems that make physical intelligence more general, reliable, and deployable.
 

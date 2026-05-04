@@ -10,13 +10,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year CS Ph.D. student at the School of Data Science, **The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)**, advised by Prof. **Guiliang Liu**.
-I received my B.Eng. in **Automation** from **Harbin Institute of Technology, Shenzhen** (2021-2025).
+I am a first-year CS Ph.D. student at the School of Data Science, **The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)**, advised by Prof. **[Guiliang Liu](https://guiliang.me/)**.
+I received my B.Eng. in **Automation** from **Harbin Institute of Technology, Shenzhen** in 2025, ranking in the top 2% of my cohort.
 
-My research interests lie in enabling physical systems to adaptively interact with the world and improve their behavior through experience.
-In particular, I am interested in **humanoid locomotion**, **generalizable robotic manipulation**, and **robot representation learning** for embodied intelligence.
+My research focuses on building embodied agents that can learn from interaction, adapt to new situations, and transfer robust behaviors across real-world settings.
+I am particularly interested in **reinforcement learning for robotic control**, **robot representation learning**, and **test-time steering/adaptation**.
 
-Before starting my Ph.D., I worked on research projects with collaborators from Tsinghua University, Westlake University, and Shanghai AI Laboratory.
+My work has appeared in top-tier AI and robotics venues, including **ICML**, **ICLR**, and **ICRA**.
+I have also been fortunate to work with collaborators and mentors across **Shanghai AI Laboratory**, **Shenzhen Loop Area Institute**, **Tsinghua University**, **Georgia Tech**, **Oxford**, and **Westlake University**.
+
+At a high level, I enjoy working on algorithms and systems that make physical intelligence more general, reliable, and deployable.
+
 
 <span class='anchor' id='news'></span>
 
@@ -200,18 +204,6 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
   </div>
 
   <div class="experience-item">
-    <div class="experience-logo-frame experience-logo-frame--westlake">
-      <img class="experience-logo" src="images/logos/westlake-mark.png" alt="Westlake University logo">
-    </div>
-    <div class="experience-text">
-      <div class="experience-time">Jul. 2024 - Sep. 2024</div>
-      <div class="experience-title"><strong>Visiting Student</strong></div>
-      <div class="experience-org">Westlake University</div>
-      <p class="experience-description">Visiting student in computer science.</p>
-    </div>
-  </div>
-
-  <div class="experience-item">
     <div class="experience-logo-frame experience-logo-frame--tsinghua">
       <img class="experience-logo" src="images/logos/tsinghua-mark.jpg" alt="Tsinghua University logo">
     </div>
@@ -220,18 +212,6 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
       <div class="experience-title"><strong>Undergraduate Researcher</strong></div>
       <div class="experience-org">Tsinghua University</div>
       <p class="experience-description">Undergraduate research on robotics and reinforcement learning.</p>
-    </div>
-  </div>
-
-  <div class="experience-item">
-    <div class="experience-logo-frame experience-logo-frame--oxford">
-      <img class="experience-logo" src="images/logos/oxford-mark.jpg" alt="University of Oxford logo">
-    </div>
-    <div class="experience-text">
-      <div class="experience-time">Jul. 2023 - Sep. 2023</div>
-      <div class="experience-title"><strong>Visiting Student</strong></div>
-      <div class="experience-org">University of Oxford</div>
-      <p class="experience-description">Visiting student in computer science.</p>
     </div>
   </div>
 
@@ -253,4 +233,18 @@ Before starting my Ph.D., I worked on research projects with collaborators from 
 # Education
 
 - *2025 - Present*, **Ph.D. in Computer Science**, The Chinese University of Hong Kong, Shenzhen.
-- *2021 - 2025*, **B.Eng. in Automation**, Harbin Institute of Technology, Shenzhen.
+- *Jul. 2024 - Sep. 2024*, **Visiting Student**, Westlake University.
+- *Jul. 2023 - Sep. 2023*, **Visiting Student**, University of Oxford.
+- *2021 - 2025*, **B.Eng. in Automation**, Harbin Institute of Technology, Shenzhen. Rank: top 2%.
+
+<span class='anchor' id='teaching'></span>
+
+# Teaching
+
+- **Teaching Assistant**, CSC-1004: Computational Laboratory Using Java, The Chinese University of Hong Kong, Shenzhen.
+
+<span class='anchor' id='service'></span>
+
+# Service
+
+- **Reviewer**: NeurIPS, ICML, ICLR, ICRA, IROS.

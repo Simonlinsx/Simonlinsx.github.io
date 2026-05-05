@@ -25,19 +25,18 @@ At a high level, I enjoy working on algorithms and systems that make physical in
 
 <span class='anchor' id='news'></span>
 
-# News
+# <span class="section-icon">📰</span> News
 
 <div class="news-list">
   <div class="news-item"><span class="news-date">2026</span><span>RoboFlow4D, DyGRO, and BiTrajDiff were accepted to ICML 2026.</span></div>
   <div class="news-item"><span class="news-date">2026</span><span>HWC-Loco was accepted to ICLR 2026, and SignBot was accepted to ICRA 2026.</span></div>
   <div class="news-item"><span class="news-date">2025</span><span>Started my Ph.D. at the School of Data Science, CUHK-Shenzhen.</span></div>
   <div class="news-item"><span class="news-date">2025</span><span>Received my B.Eng. in Automation from Harbin Institute of Technology, Shenzhen.</span></div>
-  <div class="news-item"><span class="news-date">2025</span><span>Released HWC-Loco as an arXiv preprint.</span></div>
 </div>
 
 <span class='anchor' id='selected-publications'></span>
 
-# Selected Publications
+# <span class="section-icon">📄</span> Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/research/HWC-Loco.png' alt="HWC-Loco overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,7 +60,7 @@ At a high level, I enjoy working on algorithms and systems that make physical in
 
 **[RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation](files/RoboFlow4D-pipeline.pdf)**
 
-<p class="paper-authors"><strong>Sixu Lin<strong>, Huaiyuan Xu, Junliang Chen, Zhuohao Li, Guangming Wang, Yixiong Jing, Sheng Xu, Runyi Zhao, Brian Sheil, Lap-Pui Chau, Guiliang Liu</p>
+<p class="paper-authors"><strong>Sixu Lin</strong>, Huaiyuan Xu, Junliang Chen, Zhuohao Li, Guangming Wang, Yixiong Jing, Sheng Xu, Runyi Zhao, Brian Sheil, Lap-Pui Chau, Guiliang Liu</p>
 
 <div class="paper-links">
   <a href="files/RoboFlow4D-pipeline.pdf">PDF</a>
@@ -76,8 +75,7 @@ At a high level, I enjoy working on algorithms and systems that make physical in
 
 **[DyGRO-VLA: Cross-Task Scaling of Vision Language Action Models via Dynamic Grouped Residual Optimization](files/DyGRO.pdf)**
 
-<!-- <p class="paper-authors"><strong>Sixu Lin</strong> et al.</p> -->
-<p class="paper-authors"><strong>Sixu Lin<strong>, Yunpeng Qing, Litao Liu, Ming Zhou, Ruixing Jin, Xiaoyi Fan, Guiliang Liu</p>
+<p class="paper-authors"><strong>Sixu Lin</strong>, Yunpeng Qing, Litao Liu, Ming Zhou, Ruixing Jin, Xiaoyi Fan, Guiliang Liu</p>
 
 <div class="paper-links">
   <a href="files/DyGRO.pdf">PDF</a>
@@ -169,9 +167,9 @@ At a high level, I enjoy working on algorithms and systems that make physical in
 </div>
 </div>
 
-<span class='anchor' id='selected-projects'></span>
+<span class='anchor' id='experience'></span>
 
-# Experience
+# <span class="section-icon">💼</span> Experience
 <div class="experience-list">
   <div class="experience-item">
     <div class="experience-logo-frame experience-logo-frame--slai">
@@ -224,21 +222,38 @@ At a high level, I enjoy working on algorithms and systems that make physical in
 
 <span class='anchor' id='education'></span>
 
-# Education
+# <span class="section-icon">🎓</span> Education
 
 - *2025 - Present*, **Ph.D. in Computer Science**, The Chinese University of Hong Kong, Shenzhen.
 - *Jul. 2024 - Sep. 2024*, **Visiting Student**, Westlake University.
 - *Jul. 2023 - Sep. 2023*, **Visiting Student**, University of Oxford.
 - *2021 - 2025*, **B.Eng. in Automation**, Harbin Institute of Technology, Shenzhen. Rank: top 2%.
 
+<span class='anchor' id='honor'></span>
+
+# <span class="section-icon">🏅</span> Honor
+
+<ul class="honor-list">
+  <li class="honor-item">
+    <span class="honor-date">2025.12:</span>
+    <span class="honor-medal">🏆</span>
+    <span class="honor-text"><strong>Top 1.3% (6/463)</strong> in the Tencent AI Arena Global Open Competition (Reinforcement Learning Embodied-AI Track) <span class="honor-prize">(CNY 15000)</span>.</span>
+  </li>
+  <li class="honor-item">
+    <span class="honor-date">2025:</span>
+    <span class="honor-medal">🏅</span>
+    <span class="honor-text"><strong>Top 2%</strong> in the Automation cohort, Harbin Institute of Technology, Shenzhen.</span>
+  </li>
+</ul>
+
 <span class='anchor' id='teaching'></span>
 
-# Teaching
+# <span class="section-icon">📘</span> Teaching
 
 - **Teaching Assistant**, CSC-1004: Computational Laboratory Using Java, The Chinese University of Hong Kong, Shenzhen.
 
 <span class='anchor' id='service'></span>
 
-# Service
+# <span class="section-icon">🤝</span> Service
 
 - **Reviewer**: NeurIPS, ICML, ICLR, ICRA, IROS.

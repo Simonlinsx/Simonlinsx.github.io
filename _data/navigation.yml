@@ -14,14 +14,14 @@ main:
   - title: "Publications"
     url: "#selected-publications"
 
-  - title: "Projects"
-    url: "#selected-projects"
-
   - title: "Experience"
     url: "#experience"
 
   - title: "Education"
     url: "#education"
+
+  - title: "Honor"
+    url: "#honor"
 
   - title: "Teaching"
     url: "#teaching"

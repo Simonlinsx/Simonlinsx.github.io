@@ -235,14 +235,14 @@ At a high level, I enjoy working on algorithms and systems that make physical in
 
 <ul class="honor-list">
   <li class="honor-item">
-    <span class="honor-date">2025.12:</span>
+    <span class="honor-date">Dec. 2025:</span>
     <span class="honor-medal">🏆</span>
-    <span class="honor-text"><strong>Top 1.3% (6/463)</strong> in the Tencent AI Arena Global Open Competition (Reinforcement Learning Embodied-AI Track) <span class="honor-prize">(CNY 15000)</span>.</span>
+    <span class="honor-text"><strong>Top 1.3% (ranked 6th of 463 teams)</strong> in the Tencent AI Arena Global Open Competition, Reinforcement Learning Embodied-AI Track <span class="honor-prize">(award: CNY 15,000)</span>.</span>
   </li>
   <li class="honor-item">
     <span class="honor-date">2025-2029:</span>
     <span class="honor-medal">🏅</span>
-    <span class="honor-text"><strong>Yongping Duan Scholarship</strong> <span class="honor-prize">(RMB 15000 per month)</span>.</span>
+    <span class="honor-text"><strong>Yongping Duan Scholarship</strong> <span class="honor-prize">(CNY 15,000/month)</span>.</span>
   </li>
   <li class="honor-item">
     <span class="honor-date">2023-2024:</span>
@@ -252,17 +252,17 @@ At a high level, I enjoy working on algorithms and systems that make physical in
   <li class="honor-item">
     <span class="honor-date">2023-2024:</span>
     <span class="honor-medal">🏆</span>
-    <span class="honor-text"><strong>The 18th National University Students Intelligence Car Race</strong> (National Second Prize).</span>
+    <span class="honor-text"><strong>The 18th National University Students Intelligent Car Race</strong>, National Second Prize.</span>
   </li>
   <li class="honor-item">
     <span class="honor-date">2022-2024:</span>
     <span class="honor-medal">🏅</span>
-    <span class="honor-text"><strong>First Class Scholarship for Undergraduate Students</strong> (top 5%, 2 times, total <span class="honor-prize">RMB 12000</span>).</span>
+    <span class="honor-text"><strong>First-Class Scholarship for Undergraduate Students</strong> (top 5%; awarded twice; total: <span class="honor-prize">CNY 12,000</span>).</span>
   </li>
   <li class="honor-item">
     <span class="honor-date">2021-2022:</span>
     <span class="honor-medal">🏅</span>
-    <span class="honor-text"><strong>Second Class Scholarship for Undergraduate Students</strong> <span class="honor-prize">(RMB 4000)</span>.</span>
+    <span class="honor-text"><strong>Second-Class Scholarship for Undergraduate Students</strong> <span class="honor-prize">(CNY 4,000)</span>.</span>
   </li>
   <li class="honor-item">
     <span class="honor-date">2021-2023:</span>

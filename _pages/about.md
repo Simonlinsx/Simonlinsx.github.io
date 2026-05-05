@@ -231,7 +231,7 @@ At a high level, I enjoy working on algorithms and systems that make physical in
 
 <span class='anchor' id='honor'></span>
 
-# <span class="section-icon">🏅</span> Honor
+# <span class="section-icon">🏅</span> Honors & Awards
 
 <ul class="honor-list">
   <li class="honor-item">
@@ -240,9 +240,39 @@ At a high level, I enjoy working on algorithms and systems that make physical in
     <span class="honor-text"><strong>Top 1.3% (6/463)</strong> in the Tencent AI Arena Global Open Competition (Reinforcement Learning Embodied-AI Track) <span class="honor-prize">(CNY 15000)</span>.</span>
   </li>
   <li class="honor-item">
-    <span class="honor-date">2025:</span>
+    <span class="honor-date">2025-2029:</span>
     <span class="honor-medal">🏅</span>
-    <span class="honor-text"><strong>Top 2%</strong> in the Automation cohort, Harbin Institute of Technology, Shenzhen.</span>
+    <span class="honor-text"><strong>Yongping Duan Scholarship</strong> <span class="honor-prize">(RMB 15000 per month)</span>.</span>
+  </li>
+  <li class="honor-item">
+    <span class="honor-date">2023-2024:</span>
+    <span class="honor-medal">🏅</span>
+    <span class="honor-text"><strong>National Scholarship</strong> (top 0.2% of students at Chinese universities).</span>
+  </li>
+  <li class="honor-item">
+    <span class="honor-date">2023-2024:</span>
+    <span class="honor-medal">🏆</span>
+    <span class="honor-text"><strong>The 18th National University Students Intelligence Car Race</strong> (National Second Prize).</span>
+  </li>
+  <li class="honor-item">
+    <span class="honor-date">2022-2024:</span>
+    <span class="honor-medal">🏅</span>
+    <span class="honor-text"><strong>First Class Scholarship for Undergraduate Students</strong> (top 5%, 2 times, total <span class="honor-prize">RMB 12000</span>).</span>
+  </li>
+  <li class="honor-item">
+    <span class="honor-date">2021-2022:</span>
+    <span class="honor-medal">🏅</span>
+    <span class="honor-text"><strong>Second Class Scholarship for Undergraduate Students</strong> <span class="honor-prize">(RMB 4000)</span>.</span>
+  </li>
+  <li class="honor-item">
+    <span class="honor-date">2021-2023:</span>
+    <span class="honor-medal">🏅</span>
+    <span class="honor-text"><strong>Outstanding League Member</strong> (2 times).</span>
+  </li>
+  <li class="honor-item">
+    <span class="honor-date">2021-2023:</span>
+    <span class="honor-medal">🏅</span>
+    <span class="honor-text"><strong>Outstanding Student</strong> (2 times).</span>
   </li>
 </ul>
 

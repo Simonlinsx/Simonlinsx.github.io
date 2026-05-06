@@ -11,16 +11,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a first-year CS Ph.D. student at the School of Data Science, **The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)**, advised by Prof. **[Guiliang Liu](https://guiliang.me/)**.
-I received my B.Eng. in **Automation** from **Harbin Institute of Technology, Shenzhen** in 2025, ranking in the top 2% of my cohort.
+I received my B.Eng. in **Automation** (ranking in the **top 2%**) from **Harbin Institute of Technology, Shenzhen** in 2025.
+I have also worked as a research intern at **Shanghai AI Laboratory**, mentored by **[Ming Zhou](https://www.mingzak.com/)**.
 
-My research focuses on building embodied agents that can learn from interaction, adapt to new situations, and transfer robust behaviors across real-world settings.
-I am particularly interested in **reinforcement learning for robotic control**, **robot representation learning**, and **test-time steering/adaptation**.
+My work has been published in top-tier AI and robotics venues, such as **ICML**, **ICLR**, and **ICRA**.
+These projects span robot learning, humanoid locomotion, robotic manipulation, and embodied AI.
 
-My work has appeared in top-tier AI and robotics venues, including **ICML**, **ICLR**, and **ICRA**.
-
-I have also been fortunate to work as a research intern at **Shanghai AI Laboratory**, mentored by **[Ming Zhou](https://www.mingzak.com/)**.
-
-At a high level, I enjoy working on algorithms and systems that make physical intelligence more general, reliable, and deployable.
+My research focuses on building embodied agents that learn through interaction and exhibit robust behaviors in real-world environments.
+In particular, I am interested in **reinforcement learning for robotic control**, **robot representation learning**, and **test-time steering**, with the broader goal of making physical intelligence more general, reliable, and deployable.
 
 
 <span class='anchor' id='news'></span>

@@ -26,10 +26,11 @@ In particular, I am interested in **reinforcement learning for robotic control**
 # <span class="section-icon">📰</span> News
 
 <div class="news-list">
-  <div class="news-item"><span class="news-date">2026</span><span>RoboFlow4D, DyGRO, and BiTrajDiff were accepted to ICML 2026.</span></div>
-  <div class="news-item"><span class="news-date">2026</span><span>HWC-Loco was accepted to ICLR 2026, and SignBot was accepted to ICRA 2026.</span></div>
-  <div class="news-item"><span class="news-date">2025</span><span>Started my Ph.D. at the School of Data Science, CUHK-Shenzhen.</span></div>
-  <div class="news-item"><span class="news-date">2025</span><span>Received my B.Eng. in Automation from Harbin Institute of Technology, Shenzhen.</span></div>
+  <div class="news-item"><span class="news-date">May, 2026</span><span>Three paper accepted to ICML 2026.</span></div>
+  <div class="news-item"><span class="news-date">Jan, 2026 </span><span>One paper is accepted to ICLR 2026.</span></div>
+  <div class="news-item"><span class="news-date">Jan, 2026 </span><span>One paper is accepted to ICRA 2026.</span></div>
+  <div class="news-item"><span class="news-date">Sep, 2025</span><span>Started my Ph.D. at the School of Data Science, CUHK-Shenzhen.</span></div>
+  <div class="news-item"><span class="news-date">June, 2025</span><span>Received my B.Eng. in Automation from Harbin Institute of Technology, Shenzhen.</span></div>
 </div>
 
 <span class='anchor' id='selected-publications'></span>
@@ -205,7 +206,7 @@ In particular, I am interested in **reinforcement learning for robotic control**
     </div>
     <div class="experience-text">
       <div class="experience-time">Feb. 2024 - May 2024</div>
-      <div class="experience-title"><strong>Remote Research Collaborator</strong></div>
+      <div class="experience-title"><strong>Remote Researcher</strong></div>
       <div class="experience-org">Georgia Institute of Technology</div>
       <p class="experience-description">Remote research on autonomous vehicle navigation and planning.</p>
     </div>

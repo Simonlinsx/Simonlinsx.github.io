@@ -173,7 +173,7 @@ At a high level, I enjoy working on algorithms and systems that make physical in
 <div class="experience-list">
   <div class="experience-item">
     <div class="experience-logo-frame experience-logo-frame--slai">
-      <img class="experience-logo" src="images/logos/slai-mark.png" alt="Shenzhen Loop Area Institute logo">
+      <img class="experience-logo experience-logo--wide" src="images/logos/slai-mark.png" alt="Shenzhen Loop Area Institute logo">
     </div>
     <div class="experience-text">
       <div class="experience-time">Nov. 2025 - Present</div>

@@ -39,14 +39,13 @@ In particular, I am interested in **reinforcement learning for robotic control**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/research/HWC-Loco.png' alt="HWC-Loco overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion](https://arxiv.org/abs/2503.00923)**
+**HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion**
 
 <p class="paper-authors"><strong>Sixu Lin</strong>, Guanren Qiao, Yunxin Tai, Ang Li, Kui Jia, Guiliang Liu</p>
 
 <div class="paper-links">
-  <a href="https://simonlinsx.github.io/HWC_Loco/">Project</a>
-  <a href="https://arxiv.org/abs/2503.00923">arXiv</a>
-  <a href="https://arxiv.org/pdf/2503.00923">PDF</a>
+  <a href="https://arxiv.org/pdf/2503.00923">Paper</a>
+  <a href="https://simonlinsx.github.io/HWC_Loco/">Project Page</a>
 </div>
 
 <p class="paper-summary">A hierarchical whole-body control approach for robust humanoid locomotion across diverse terrains, robot structures, and disturbance settings.</p>
@@ -56,12 +55,12 @@ In particular, I am interested in **reinforcement learning for robotic control**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/research/RoboFlow4D.png' alt="RoboFlow4D pipeline" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation](files/RoboFlow4D-pipeline_00.png)**
+**RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation**
 
 <p class="paper-authors"><strong>Sixu Lin</strong>, Huaiyuan Xu, Junliang Chen, Zhuohao Li, Guangming Wang, Yixiong Jing, Sheng Xu, Runyi Zhao, Brian Sheil, Lap-Pui Chau, Guiliang Liu</p>
 
 <div class="paper-links">
-  <a href="files/RoboFlow4D-pipeline_00.png">Pipeline</a>
+  <span class="paper-link-muted">Paper: Coming soon</span>
 </div>
 
 <p class="paper-summary">A 4D flow representation and policy learning framework for robotic manipulation.</p>
@@ -71,28 +70,27 @@ In particular, I am interested in **reinforcement learning for robotic control**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/research/DyGRO.png' alt="DyGRO pipeline" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[DyGRO-VLA: Cross-Task Scaling of Vision Language Action Models via Dynamic Grouped Residual Optimization](files/DyGRO.pdf)**
+**DyGRO-VLA: Cross-Task Scaling of Vision Language Action Models via Dynamic Grouped Residual Optimization**
 
 <p class="paper-authors"><strong>Sixu Lin</strong>, Yunpeng Qing, Litao Liu, Ming Zhou, Ruixing Jin, Xiaoyi Fan, Guiliang Liu</p>
 
 <div class="paper-links">
-  <a href="files/DyGRO.pdf">PDF</a>
+  <span class="paper-link-muted">Paper: Coming soon</span>
 </div>
 
-<p class="paper-summary">A dynamic grouping residual reinforcement learning framework for adaptive embodied policies.</p>
+<p class="paper-summary">A dynamic grouping residual reinforcement learning framework for Vision-Language Action models.</p>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/research/BiTrajDiff.png' alt="BiTrajDiff paper thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning](https://arxiv.org/abs/2506.05762)**
+**BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning**
 
 <p class="paper-authors">Yunpeng Qing, Yixiao Chi, Shuo Chen, Shunyu Liu, Kelu Yao, <strong>Sixu Lin</strong>, Litao Liu, Changqing Zou</p>
 
 <div class="paper-links">
-  <a href="https://arxiv.org/abs/2506.05762">arXiv</a>
-  <a href="https://arxiv.org/pdf/2506.05762">PDF</a>
+  <a href="https://arxiv.org/pdf/2506.05762">Paper</a>
 </div>
 
 <p class="paper-summary">A bidirectional diffusion framework for offline reinforcement learning that models both future and history trajectories from intermediate states.</p>
@@ -102,13 +100,12 @@ In particular, I am interested in **reinforcement learning for robotic control**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/research/Signbot.png' alt="SignBot pipeline" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[SignBot: Learning Human-to-Humanoid Sign Language Interaction](https://arxiv.org/abs/2505.24266)**
+**SignBot: Learning Human-to-Humanoid Sign Language Interaction**
 
 <p class="paper-authors">Guanren Qiao, <strong>Sixu Lin</strong>, Ronglai Zuo, Zhizheng Wu, Kui Jia, Guiliang Liu</p>
 
 <div class="paper-links">
-  <a href="https://arxiv.org/abs/2505.24266">arXiv</a>
-  <a href="https://arxiv.org/pdf/2505.24266">PDF</a>
+  <a href="https://arxiv.org/pdf/2505.24266">Paper</a>
 </div>
 
 <p class="paper-summary">A human-to-humanoid sign language interaction framework spanning motion retargeting, motion control, and generative interaction.</p>
@@ -118,13 +115,13 @@ In particular, I am interested in **reinforcement learning for robotic control**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/research/VLAC.jpg' alt="VLAC framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[A Vision-Language-Action-Critic Model for Robotic Real-World Reinforcement Learning](https://arxiv.org/abs/2509.15937)**
+**A Vision-Language-Action-Critic Model for Robotic Real-World Reinforcement Learning**
 
 <p class="paper-authors">Shaopeng Zhai, Qi Zhang, Tianyi Zhang, Fuxian Huang, Haoran Zhang, Ming Zhou, Shengzhe Zhang, Litao Liu, <strong>Sixu Lin</strong>, Jiangmiao Pang</p>
 
 <div class="paper-links">
-  <a href="https://vlac.intern-ai.org.cn/">Project</a>
-  <a href="https://arxiv.org/abs/2509.15937">arXiv</a>
+  <a href="https://arxiv.org/pdf/2509.15937">Paper</a>
+  <a href="https://vlac.intern-ai.org.cn/">Project Page</a>
   <a href="https://github.com/InternRobotics/VLAC">Code</a>
 </div>
 
@@ -135,13 +132,12 @@ In particular, I am interested in **reinforcement learning for robotic control**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/research/SMAP.jpg' alt="SMAP framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control](https://arxiv.org/abs/2505.19463)**
+**SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control**
 
 <p class="paper-authors">Haoyu Zhao<sup>*</sup>, <strong>Sixu Lin</strong><sup>*</sup>, Qingwei Ben, Minyue Dai, Hao Fei, Jingbo Wang, Hua Zou, Junting Dong</p>
 
 <div class="paper-links">
-  <a href="https://arxiv.org/abs/2505.19463">arXiv</a>
-  <a href="https://arxiv.org/pdf/2505.19463">PDF</a>
+  <a href="https://arxiv.org/pdf/2505.19463">Paper</a>
 </div>
 
 <p class="paper-summary">A self-supervised motion adaptation framework for physically plausible humanoid whole-body control.</p>
@@ -151,14 +147,12 @@ In particular, I am interested in **reinforcement learning for robotic control**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/research/MASQ.png' alt="MASQ framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[MASQ: Multi-Agent Reinforcement Learning for Single Quadruped Robot Locomotion](https://arxiv.org/abs/2408.13759)**
+**MASQ: Multi-Agent Reinforcement Learning for Single Quadruped Robot Locomotion**
 
 <p class="paper-authors">Qi Liu, Jingxiang Guo, <strong>Sixu Lin</strong>, Shuaikang Ma, Jinxuan Zhu, Yanjie Li</p>
 
 <div class="paper-links">
-  <a href="https://arxiv.org/abs/2408.13759">arXiv</a>
-  <a href="https://arxiv.org/pdf/2408.13759">PDF</a>
-  <a href="https://icml.cc/virtual/2025/50633">ICML Page</a>
+  <a href="https://arxiv.org/pdf/2408.13759">Paper</a>
 </div>
 
 <p class="paper-summary">A multi-agent reinforcement learning formulation that treats the legs of a single quadruped robot as cooperating agents.</p>

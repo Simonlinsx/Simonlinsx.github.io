@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Sixu Lin"
   pronouns         : # example: "she/her"  
-  bio              : "First-year CS Ph.D. student working on embodied intelligence, humanoid locomotion, and robotic manipulation."
+  bio              : "First-year CS Ph.D. student at The Chinese University of Hong Kong, Shenzhen."
   location         : "Shenzhen, China"
-  employer         : "The Chinese University of Hong Kong, Shenzhen"
+  employer         :
   uri              : "https://simonlinsx.github.io"
-  email            :
+  email            : sixulin@link.cuhk.edu.cn
 
   # Academic websites
   academia         : # URL

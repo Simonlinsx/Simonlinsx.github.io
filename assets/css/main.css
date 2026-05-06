@@ -222,7 +222,7 @@ h1:before {
 }
 
 .paper-box-image img {
-  background: #f7f7f7;
+  background: #ffffff;
   box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.28);
   display: block;
   height: 210px;
@@ -248,25 +248,25 @@ h1:before {
 .paper-links {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.45rem;
+  gap: 0.8rem;
   margin: 0.45rem 0 0.55rem;
 }
 
-.paper-links a {
-  background: #f1f4fa;
-  border: 1px solid #d7dfed;
-  border-radius: 999px;
+.paper-links a,
+.paper-link-muted {
   color: #00369f;
   font-size: 0.82rem;
   font-weight: 700;
   line-height: 1.2;
-  padding: 0.22rem 0.65rem;
 }
 
 .paper-links a:hover {
-  background: #00369f;
-  color: #ffffff;
-  text-decoration: none;
+  color: #001f5f;
+  text-decoration: underline;
+}
+
+.paper-link-muted {
+  color: #777777;
 }
 
 .paper-summary {

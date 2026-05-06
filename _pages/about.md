@@ -56,12 +56,12 @@ In particular, I am interested in **reinforcement learning for robotic control**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/research/RoboFlow4D.png' alt="RoboFlow4D pipeline" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation](files/RoboFlow4D-pipeline.pdf)**
+**[RoboFlow4D: A Lightweight Flow World Model Toward Real-Time Flow-Guided Robotic Manipulation](files/RoboFlow4D-pipeline_00.png)**
 
 <p class="paper-authors"><strong>Sixu Lin</strong>, Huaiyuan Xu, Junliang Chen, Zhuohao Li, Guangming Wang, Yixiong Jing, Sheng Xu, Runyi Zhao, Brian Sheil, Lap-Pui Chau, Guiliang Liu</p>
 
 <div class="paper-links">
-  <a href="files/RoboFlow4D-pipeline.pdf">PDF</a>
+  <a href="files/RoboFlow4D-pipeline_00.png">Pipeline</a>
 </div>
 
 <p class="paper-summary">A 4D flow representation and policy learning framework for robotic manipulation.</p>
@@ -201,7 +201,7 @@ In particular, I am interested in **reinforcement learning for robotic control**
       <div class="experience-time">Sep. 2024 - Nov. 2024</div>
       <div class="experience-title"><strong>Undergraduate Researcher</strong></div>
       <div class="experience-org">Tsinghua University</div>
-      <p class="experience-description">Undergraduate research on robotics and reinforcement learning.</p>
+      <p class="experience-description">Undergraduate research on air-ground coordination with quadruped robots and UAVs.</p>
     </div>
   </div>
 
@@ -213,7 +213,7 @@ In particular, I am interested in **reinforcement learning for robotic control**
       <div class="experience-time">Feb. 2024 - May 2024</div>
       <div class="experience-title"><strong>Remote Research Collaborator</strong></div>
       <div class="experience-org">Georgia Institute of Technology</div>
-      <p class="experience-description">Remote research collaboration on embodied AI and robotics.</p>
+      <p class="experience-description">Remote research on autonomous vehicle navigation and planning.</p>
     </div>
   </div>
 </div>
@@ -235,12 +235,12 @@ In particular, I am interested in **reinforcement learning for robotic control**
   <li class="honor-item">
     <span class="honor-date">Dec. 2025:</span>
     <span class="honor-medal">🏆</span>
-    <span class="honor-text"><strong>Top 1.3% (ranked 6th of 463 teams)</strong> in the Tencent AI Arena Global Open Competition, Reinforcement Learning Embodied-AI Track <span class="honor-prize">(award: CNY 15,000)</span>.</span>
+    <span class="honor-text"><strong>Top 1.3% (ranked 6th of 463 teams)</strong> in the Tencent AI Arena Global Open Competition, Reinforcement Learning Embodied-AI Track <span class="honor-prize">(CNY 15,000)</span>.</span>
   </li>
   <li class="honor-item">
     <span class="honor-date">2025-2029:</span>
     <span class="honor-medal">🏅</span>
-    <span class="honor-text"><strong>Yongping Duan Scholarship</strong> <span class="honor-prize">(CNY 15,000/month)</span>.</span>
+    <span class="honor-text"><strong>Yongping Duan Scholarship</strong> <span class="honor-prize">(CNY 15,000 per month)</span>.</span>
   </li>
   <li class="honor-item">
     <span class="honor-date">2023-2024:</span>

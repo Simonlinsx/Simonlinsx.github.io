@@ -26,7 +26,7 @@ In particular, I am interested in **reinforcement learning for robotic control**
 # <span class="section-icon">📰</span> News
 
 <div class="news-list">
-  <div class="news-item"><span class="news-date">May, 2026</span><span>Three paper accepted to ICML 2026.</span></div>
+  <div class="news-item"><span class="news-date">May, 2026</span><span>Three papers are accepted to ICML 2026.</span></div>
   <div class="news-item"><span class="news-date">Jan, 2026 </span><span>One paper is accepted to ICLR 2026.</span></div>
   <div class="news-item"><span class="news-date">Jan, 2026 </span><span>One paper is accepted to ICRA 2026.</span></div>
   <div class="news-item"><span class="news-date">Sep, 2025</span><span>Started my Ph.D. at the School of Data Science, CUHK-Shenzhen.</span></div>

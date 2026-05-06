@@ -15,7 +15,7 @@ I received my B.Eng. in **Automation** (ranking in the **top 2%**) from **Harbin
 I have also worked as a research intern at **Shanghai AI Laboratory**, mentored by **[Ming Zhou](https://www.mingzak.com/)**.
 
 My work has been published in top-tier AI and robotics venues, such as **ICML**, **ICLR**, and **ICRA**.
-These projects span robot learning, humanoid locomotion, robotic manipulation, and embodied AI.
+These projects span reinforcement learning, humanoid locomotion and robotic manipulation.
 
 My research focuses on building embodied agents that learn through interaction and exhibit robust behaviors in real-world environments.
 In particular, I am interested in **reinforcement learning for robotic control**, **robot representation learning**, and **test-time steering**, with the broader goal of making physical intelligence more general, reliable, and deployable.
@@ -27,8 +27,8 @@ In particular, I am interested in **reinforcement learning for robotic control**
 
 <div class="news-list">
   <div class="news-item"><span class="news-date">May, 2026</span><span>Three papers are accepted to ICML 2026.</span></div>
-  <div class="news-item"><span class="news-date">Jan, 2026 </span><span>One paper is accepted to ICLR 2026.</span></div>
   <div class="news-item"><span class="news-date">Jan, 2026 </span><span>One paper is accepted to ICRA 2026.</span></div>
+  <div class="news-item"><span class="news-date">Jan, 2026 </span><span>One paper is accepted to ICLR 2026.</span></div>
   <div class="news-item"><span class="news-date">Sep, 2025</span><span>Started my Ph.D. at the School of Data Science, CUHK-Shenzhen.</span></div>
   <div class="news-item"><span class="news-date">June, 2025</span><span>Received my B.Eng. in Automation from Harbin Institute of Technology, Shenzhen.</span></div>
 </div>
@@ -36,23 +36,6 @@ In particular, I am interested in **reinforcement learning for robotic control**
 <span class='anchor' id='selected-publications'></span>
 
 # <span class="section-icon">📄</span> Selected Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/research/HWC-Loco.png' alt="HWC-Loco overview" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion**
-
-<p class="paper-authors"><strong>Sixu Lin</strong>, Guanren Qiao, Yunxin Tai, Ang Li, Kui Jia, Guiliang Liu</p>
-
-<div class="paper-links">
-  <a href="https://arxiv.org/pdf/2503.00923">Paper</a>
-  <a href="https://simonlinsx.github.io/HWC_Loco/">Project Page</a>
-  <a href="https://github.com/EDEM-AI/HWC_Loco">Code</a>
-</div>
-
-<p class="paper-summary">A hierarchical whole-body control approach for robust humanoid locomotion across diverse terrains, robot structures, and disturbance settings.</p>
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/research/RoboFlow4D.png' alt="RoboFlow4D pipeline" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,7 +48,8 @@ In particular, I am interested in **reinforcement learning for robotic control**
   <span class="paper-link-muted">Paper: Coming soon</span>
 </div>
 
-<p class="paper-summary">A 4D flow representation and policy learning framework for robotic manipulation.</p>
+<p class="paper-summary">An end-to-end, goal-oriented 3D flow world model toward real-time flow-guided robotic manipulation.
+</p>
 </div>
 </div>
 
@@ -81,6 +65,23 @@ In particular, I am interested in **reinforcement learning for robotic control**
 </div>
 
 <p class="paper-summary">A dynamic grouping residual reinforcement learning framework for Vision-Language Action models.</p>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/research/HWC-Loco.png' alt="HWC-Loco overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion**
+
+<p class="paper-authors"><strong>Sixu Lin</strong>, Guanren Qiao, Yunxin Tai, Ang Li, Kui Jia, Guiliang Liu</p>
+
+<div class="paper-links">
+  <a href="https://arxiv.org/pdf/2503.00923">Paper</a>
+  <a href="https://simonlinsx.github.io/HWC_Loco/">Project Page</a>
+  <a href="https://github.com/EDEM-AI/HWC_Loco">Code</a>
+</div>
+
+<p class="paper-summary">A hierarchical whole-body control approach for robust humanoid locomotion across diverse terrains, robot structures, and disturbance settings.</p>
 </div>
 </div>
 
@@ -118,7 +119,7 @@ In particular, I am interested in **reinforcement learning for robotic control**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/research/VLAC.jpg' alt="VLAC framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**A Vision-Language-Action-Critic Model for Robotic Real-World Reinforcement Learning**
+**VLAC: A Vision-Language-Action-Critic Model for Robotic Real-World Reinforcement Learning**
 
 <p class="paper-authors">Shaopeng Zhai, Qi Zhang, Tianyi Zhang, Fuxian Huang, Haoran Zhang, Ming Zhou, Shengzhe Zhang, Litao Liu, <strong>Sixu Lin</strong>, Jiangmiao Pang</p>
 
@@ -141,6 +142,7 @@ In particular, I am interested in **reinforcement learning for robotic control**
 
 <div class="paper-links">
   <a href="https://arxiv.org/pdf/2505.19463">Paper</a>
+  <a href="https://github.com/Maxwell-Zhao/SMAP">Code</a>
 </div>
 
 <p class="paper-summary">A self-supervised motion adaptation framework for physically plausible humanoid whole-body control.</p>

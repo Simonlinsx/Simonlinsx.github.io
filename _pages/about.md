@@ -224,7 +224,7 @@ In particular, I am interested in **reinforcement learning for robotic control**
 - *2025 - Present*, **Ph.D. in Computer Science**, The Chinese University of Hong Kong, Shenzhen.
 - *Jul. 2024 - Sep. 2024*, **Visiting Student**, Westlake University.
 - *Jul. 2023 - Sep. 2023*, **Visiting Student**, University of Oxford.
-- *2021 - 2025*, **B.Eng. in Automation**, Harbin Institute of Technology, Shenzhen. Rank: top 2%.
+- *2021 - 2025*, **B.Eng. in Automation**, Harbin Institute of Technology, Shenzhen. Rank: 3 / 256 (top 2%).
 
 <span class='anchor' id='honor'></span>
 
@@ -244,7 +244,7 @@ In particular, I am interested in **reinforcement learning for robotic control**
   <li class="honor-item">
     <span class="honor-date">2023-2024:</span>
     <span class="honor-medal">🏅</span>
-    <span class="honor-text"><strong>National Scholarship</strong> (top 0.2% of students at Chinese universities).</span>
+    <span class="honor-text"><strong>National Scholarship</strong> (top 0.2%; <span class="honor-prize">CNY 8,000</span>).</span>
   </li>
   <li class="honor-item">
     <span class="honor-date">2023-2024:</span>
@@ -254,7 +254,7 @@ In particular, I am interested in **reinforcement learning for robotic control**
   <li class="honor-item">
     <span class="honor-date">2022-2024:</span>
     <span class="honor-medal">🏅</span>
-    <span class="honor-text"><strong>First-Class Scholarship for Undergraduate Students</strong> (top 5%; awarded twice; total: <span class="honor-prize">CNY 12,000</span>).</span>
+    <span class="honor-text"><strong>First-Class Scholarship for Undergraduate Students</strong> (top 5%; <span class="honor-prize">CNY 12,000</span>).</span>
   </li>
   <li class="honor-item">
     <span class="honor-date">2021-2022:</span>
@@ -264,12 +264,12 @@ In particular, I am interested in **reinforcement learning for robotic control**
   <li class="honor-item">
     <span class="honor-date">2021-2023:</span>
     <span class="honor-medal">🏅</span>
-    <span class="honor-text"><strong>Outstanding League Member</strong> (2 times).</span>
+    <span class="honor-text"><strong>Outstanding League Member</strong>.</span>
   </li>
   <li class="honor-item">
     <span class="honor-date">2021-2023:</span>
     <span class="honor-medal">🏅</span>
-    <span class="honor-text"><strong>Outstanding Student</strong> (2 times).</span>
+    <span class="honor-text"><strong>Outstanding Student</strong>.</span>
   </li>
 </ul>
 

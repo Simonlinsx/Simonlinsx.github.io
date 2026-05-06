@@ -174,7 +174,7 @@ strong {
   align-items: baseline;
   display: grid;
   gap: 0.55rem;
-  grid-template-columns: 1.35rem 4.2rem 1fr;
+  grid-template-columns: 1.35rem max-content minmax(0, 1fr);
   margin: 0.45rem 0;
 }
 
@@ -189,6 +189,7 @@ strong {
 .news-date {
   color: #00369f;
   font-weight: 700;
+  white-space: nowrap;
 }
 
 .anchor:before,

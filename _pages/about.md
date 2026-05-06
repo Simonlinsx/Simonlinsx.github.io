@@ -47,6 +47,7 @@ In particular, I am interested in **reinforcement learning for robotic control**
 <div class="paper-links">
   <a href="https://arxiv.org/pdf/2503.00923">Paper</a>
   <a href="https://simonlinsx.github.io/HWC_Loco/">Project Page</a>
+  <a href="https://github.com/EDEM-AI/HWC_Loco">Code</a>
 </div>
 
 <p class="paper-summary">A hierarchical whole-body control approach for robust humanoid locomotion across diverse terrains, robot structures, and disturbance settings.</p>
@@ -107,6 +108,7 @@ In particular, I am interested in **reinforcement learning for robotic control**
 
 <div class="paper-links">
   <a href="https://arxiv.org/pdf/2505.24266">Paper</a>
+  <a href="https://github.com/qiaoguanren/Signbot">Code</a>
 </div>
 
 <p class="paper-summary">A human-to-humanoid sign language interaction framework spanning motion retargeting, motion control, and generative interaction.</p>

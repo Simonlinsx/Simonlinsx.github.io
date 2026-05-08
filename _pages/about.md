@@ -10,12 +10,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year CS Ph.D. student at the School of Data Science, **The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)**, advised by Prof. **[Guiliang Liu](https://guiliang.me/)**.
-I received my B.Eng. in **Automation** (ranking in the **top 2%**) from **Harbin Institute of Technology, Shenzhen** in 2025.
-I have also worked as a research intern at **Shanghai AI Laboratory**, mentored by **[Ming Zhou](https://www.mingzak.com/)**.
+I am a first-year CS Ph.D. student at the School of Data Science, [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en), advised by Prof. [Guiliang Liu](https://guiliang.me/).
+I received my B.Eng. in **Automation** (ranking in the **top 2%**) from [Harbin Institute of Technology, Shenzhen](https://en.hitsz.edu.cn/) in 2025.
+I have also worked as a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), mentored by [Ming Zhou](https://www.mingzak.com/).
 
 My work has been published in top-tier AI and robotics venues, such as **ICML**, **ICLR**, and **ICRA**.
-These projects span reinforcement learning, humanoid locomotion and robotic manipulation.
+These projects span reinforcement learning, humanoid locomotion, and robotic manipulation.
 
 My research focuses on building embodied agents that learn through interaction and exhibit robust behaviors in real-world environments.
 In particular, I am interested in **reinforcement learning for robotic control**, **robot representation learning**, and **test-time steering**, with the broader goal of making physical intelligence more general, reliable, and deployable.
@@ -26,9 +26,9 @@ In particular, I am interested in **reinforcement learning for robotic control**
 # <span class="section-icon">📰</span> News
 
 <div class="news-list">
-  <div class="news-item"><span class="news-date">May, 2026</span><span>Three papers are accepted to ICML 2026.</span></div>
-  <div class="news-item"><span class="news-date">Jan, 2026 </span><span>One paper is accepted to ICRA 2026.</span></div>
-  <div class="news-item"><span class="news-date">Jan, 2026 </span><span>One paper is accepted to ICLR 2026.</span></div>
+  <div class="news-item"><span class="news-date">May, 2026</span><span>Three papers are accepted to <strong>ICML 2026</strong>.</span></div>
+  <div class="news-item"><span class="news-date">Jan, 2026 </span><span>One paper is accepted to <strong>ICRA 2026</strong>.</span></div>
+  <div class="news-item"><span class="news-date">Jan, 2026 </span><span>One paper is accepted to <strong>ICLR 2026</strong>.</span></div>
   <div class="news-item"><span class="news-date">Sep, 2025</span><span>Started my Ph.D. at the School of Data Science, CUHK-Shenzhen.</span></div>
   <div class="news-item"><span class="news-date">June, 2025</span><span>Received my B.Eng. in Automation from Harbin Institute of Technology, Shenzhen.</span></div>
 </div>
@@ -85,21 +85,6 @@ In particular, I am interested in **reinforcement learning for robotic control**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/research/BiTrajDiff.png' alt="BiTrajDiff paper thumbnail" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning**
-
-<p class="paper-authors">Yunpeng Qing, Yixiao Chi, Shuo Chen, Shunyu Liu, Kelu Yao, <strong>Sixu Lin</strong>, Litao Liu, Changqing Zou</p>
-
-<div class="paper-links">
-  <a href="https://arxiv.org/pdf/2506.05762">Paper</a>
-</div>
-
-<p class="paper-summary">A bidirectional diffusion framework for offline reinforcement learning that models both future and history trajectories from intermediate states.</p>
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/research/Signbot.png' alt="SignBot pipeline" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -113,6 +98,21 @@ In particular, I am interested in **reinforcement learning for robotic control**
 </div>
 
 <p class="paper-summary">A human-to-humanoid sign language interaction framework spanning motion retargeting, motion control, and generative interaction.</p>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/research/BiTrajDiff.png' alt="BiTrajDiff paper thumbnail" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning**
+
+<p class="paper-authors">Yunpeng Qing, Yixiao Chi, Shuo Chen, Shunyu Liu, Kelu Yao, <strong>Sixu Lin</strong>, Litao Liu, Changqing Zou</p>
+
+<div class="paper-links">
+  <a href="https://arxiv.org/pdf/2506.05762">Paper</a>
+</div>
+
+<p class="paper-summary">A bidirectional diffusion framework for offline reinforcement learning that models both future and history trajectories from intermediate states.</p>
 </div>
 </div>
 
@@ -277,7 +277,7 @@ In particular, I am interested in **reinforcement learning for robotic control**
 
 # <span class="section-icon">📘</span> Teaching
 
-- **Teaching Assistant**, CSC-1004: Computational Laboratory Using Java, The Chinese University of Hong Kong, Shenzhen.
+- **Teaching Assistant**, CSC-1004: Computational Laboratory Using Java.
 
 <span class='anchor' id='service'></span>
 
